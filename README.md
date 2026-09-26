@@ -245,5 +245,5 @@ GAMEOTRON focuses on transforming ideas and concepts into playable experiences t
 
 ## License
 
-This project is licensed under the PolyForm Noncommercial License 1.0.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the PolyForm Noncommercial License 1.0.0 - see the [LICENSE] file for details.
 
