@@ -160,6 +160,35 @@ GAMEOTRON follows a structured six-phase pipeline with a polish pass:
 
 ---
 
+## Getting Started
+
+Follow these steps to set up and run GAMEOTRON in OpenCode:
+
+### 1. Install OpenCode
+Make sure you have **OpenCode** installed on your system. This serves as the primary prerequisite.
+
+### 2. Clone the Repository
+Clone the `gameotron` directory into your local project structure. 
+
+### 3. Add the Project to OpenCode
+1. Open the **OpenCode** application.
+2. On the start page, **Add Project**.
+3. Select the root folder.
+
+### 4. Open the Session
+1. Select the newly added gameotron project from your list.
+2. Click on **New Session** to initialize the environment.
+
+### 5. Run GAMEOTRON
+1. Inside the session, choose your preferred AI model (e.g., the free **MiMo-V2.6-Flash Free**).
+2. In the chat/input prompt, type the following command to activate the orchestrator:
+   ```text
+   use @gameotron
+   ```
+   for more information see section **Usage**
+
+---
+
 ## Usage
 
 ```
