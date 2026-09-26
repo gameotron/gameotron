@@ -240,3 +240,10 @@ GAMEOTRON produces:
 **Ideas are cheap. Playable concepts create value.**
 
 GAMEOTRON focuses on transforming ideas and concepts into playable experiences through a structured, repeatable, and testable development pipeline.
+
+---
+
+## License
+
+This project is licensed under the PolyForm Noncommercial License 1.0.0 - see the [LICENSE](LICENSE) file for details.
+
